@@ -5,7 +5,7 @@
 # Version: 1.00
 # Stony Brook University/DoIT
 #
-# This script will turn off the AutoBoot feature on Intel Macintosh laptops. 
+# This Jamf script will turn off the AutoBoot feature on Intel Macintosh laptops. 
 # When the lid is opened or power connected, the computer automatically 
 # powers on and it upsets some users.
 #
